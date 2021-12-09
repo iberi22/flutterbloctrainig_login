@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561525341333",
+    "project_id": "alertax-765ee",
+    "storage_bucket": "alertax-765ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561525341333:android:50bf8b4fc34045beb46f9c",
+        "android_client_info": {
+          "package_name": "com.alertax.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561525341333-nc1soae45ubk56lv1tu15uveadq92h6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alertax.login",
+            "certificate_hash": "8f287e48c3d21bef180b917d83fc9c7110d07415"
+          }
+        },
+        {
+          "client_id": "561525341333-8d6q8s9i98suabe3a2r5b5oc985b36b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30BjsvQ7RBzfceWvroruc9-qmEGCvjYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561525341333-8d6q8s9i98suabe3a2r5b5oc985b36b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
